@@ -53,13 +53,13 @@ Assisted with coursework and student projects in Supply Chain Management.
 
 ## 📊 Projects
 
-**[**Guest Satisfaction Analysis of NYC Airbnb Listings**](https://github.com/jennyzhong-1227/lyft_nyc_project)** _(August 2020)_ <br>
+**[**Guest Satisfaction Analysis of NYC Airbnb Listings**](https://github.com/jennyzhong-1227/lyft_nyc_project)**  <br>
 - Conducted data cleaning, feature engineering, and clustering analysis using R, generating a comprehensive report in R Markdown
 - Developed predictive analysis to identify key satisfaction drivers and improve guest experience
 - **_Technologies used:_** R, R Markdown, clustering, machine learning, predictive analysis.
 <br><br>
 
-**[**Competitor Analysis to Increase Lyft's Market Share in NYC**](https://github.com/jennyzhong-1227/airbnb_ny_project)** _(November 2021)_ <br>
+**[**Competitor Analysis to Increase Lyft's Market Share in NYC**](https://github.com/jennyzhong-1227/airbnb_ny_project)**  <br>
 - Conducted big data analysis on trip patterns, response times, and underserved areas
 - Created a predictive model to analyze travel demand and driver pay impact
 - Developed an interactive Tableau dashboard to visualize findings and deliver actionable recommendations
