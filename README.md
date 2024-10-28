@@ -1,6 +1,6 @@
 # Jenny Zhong
 
-_Aspiring data analyst and data scientist based in New York City 🇺🇸_ <br>
+_Aspiring data analyst and data scientist based in New York City 🗽_ <br>
 
 [Email](mailto:zhongjenny9@gmail.com) / [LinkedIn](http://linkedin.com/in/jennyzhong-1227) / [GitHub](https://github.com/jennyzhong-1227)
 
